@@ -72,7 +72,9 @@ MacroAppList.GetApps = METHOD(() => {
 		'com.lmiot.ggautoclick' : 'AutoClick',
 		'net.dinglisch.android.taskerm' : 'Tasker',
 		'com.joaomgcd.autoinput' : 'AutoInput',
-		'com.balda.touchtask' : 'TouchTask'
+		'com.balda.touchtask' : 'TouchTask',
+		'catch_.me_.if_.you_.can_' : 'GameGuardian',
+		'wbdzirypxtlz' : 'GameGuardian'
 	};
 	
 	return {
